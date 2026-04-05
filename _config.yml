@@ -25,12 +25,8 @@ author:
   avatar   : "poompol-headshot.jpg"
   name     : "Poompol Buathong"
   pronouns : "he/him" 
-  bio      : |
-    A PhD candidate in Applied Mathematics
-    at Cornell University
-  location : |
-    657 Frank H.T. Rhodes Hall
-    Cornell University, Ithaca, NY 14853
+  bio: "A PhD candidate in Applied Mathematics<br>at Cornell University"
+  location: "657 Frank H.T. Rhodes Hall<br>Cornell University, Ithaca, NY 14853"
   employer : "Cornell University"
   email    : "pb482@cornell.edu"
   # Academic websites
