@@ -24,9 +24,10 @@ repository               : "poompol.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Poompol"
+  name             : "Poompol Buathong"
   pronouns         : "he/him" 
-  bio              : "A PhD candidate in Applied Mathematics at Cornell University"
+  bio              : | A PhD candidate in Applied Mathematics
+  at Cornell University
   location         : "657 Frank H.T. Rhodes Hall, Cornell University, Ithaca, NY 14853"
   employer         : "Cornell University"
   uri              : # URL
