@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Daily Food Planning for Thai Children (Age 1-3 year) by using a Mathematical Model<br />Operations Research Network of Thailand (OR-NET) Conference; Bangkok, Thailand",
+    13.7524938,
+    100.4935089
   ],
   [
     "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
