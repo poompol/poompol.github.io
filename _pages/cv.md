@@ -11,36 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Applied Mathematics, Cornell University, 2027 (expected)
+* M.Sc. in Applied Mathematics, Cornell University, 2024
+* M.Sc. in Applied Mathematics, Mahidol University, 2020
+* B.Sc. in Mathematics, Mahidol University, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May-August, 2025: Graduate Research Assistant
+  * Affiliation: School of Operations Research and Information Engineering (ORIE), Cornell University, USA
+  * Supervisor: [Prof. Peter Frazier](https://people.orie.cornell.edu/pfrazier/)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May-August, 2024: Graduate Research Assistant
+  * Affiliation: School of Operations Research and Information Engineering (ORIE), Cornell University, USA
+  * Supervisor: [Prof. Peter Frazier](https://people.orie.cornell.edu/pfrazier/)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August-December, 2020: Research Assistant
+  * Affiliation: Department of Mathematics, Faculty of Science, Mahidol University, Thailand
+  * Supervisor: [Assoc. Prof. Tipaluck Krityakierne](https://science.mahidol.ac.th/expertise/search.php?q=Tipaluck%20Krityakierne)
+
+* March-August, 2019: Research Intern
+  * Affiliation: Uncertainty Quantification and Optimal Design group, Idiap Research Institute, Switzerland
+  * Topic: Bayesian Optimization for Set-valued Input Functions
+  * Supervisor: [Prof. David Ginsbourger](https://ginsbourger.github.io/)
+
+* August, 2018 - May, 2021: Teaching Assistant 
+  * Affiliation: Department of Mathematics, Faculty of Science, Mahidol University, Thailand
+  * Duties included: Grading and classroom support (non-teaching role)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -52,13 +50,4 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
