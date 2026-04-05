@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Publications
-======
 * Khongkomolsakul, W., <u>Buathong, P.</u>, Yang, E., Dadmohammadi, Y., Zhou, Y., Li, P., Yang, L., Frazier, P.  & Abbaspourrad, A. (2026). Improving Thermal and Gastric Stability of Phytase via pH Shifting and Coacervation: A Demonstration of Bayesian Optimization for Rapid Process Tuning. Food Hydrocolloids, 174, 112296 . 
   * [Full text](https://www.sciencedirect.com/science/article/pii/S0268005X25012561), [Preprint](https://www.biorxiv.org/content/10.1101/2025.04.18.649602v1.abstract)
 
