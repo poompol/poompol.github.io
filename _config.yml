@@ -22,7 +22,7 @@ repository               : "poompol.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar   : "profile.png"
+  avatar   : "poompol-headshot.jpg"
   name     : "Poompol Buathong"
   pronouns : "he/him" 
   bio      : |
