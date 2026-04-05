@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks"
+title: "Talks & Presentations"
 permalink: /talks/
 author_profile: true
 redirect_from:
@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Talks & Presentations
-======
+
 * March, 2026
   * Scaling Bayesian Optimization of Composite Functions for High-Dimensional Inverse Problems: Application to Electron Microscopy
   * Oral Presentation 
