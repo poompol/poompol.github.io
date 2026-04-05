@@ -39,15 +39,21 @@ Work experience
   * Affiliation: Department of Mathematics, Faculty of Science, Mahidol University, Thailand
   * Duties included: Grading and classroom support (non-teaching role)
   
-Publications
+Awards and Scholarships
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* 2022
+  * Award for Best Academic Performance in Graduate Study (M.Sc. Applied Mathematics)
+  * By: [The professor Dr. Tab Nilanidhi Foundation](http://www.tabfund.sc.chula.ac.th/main.php), Thailand
+
+* 2017
+  * Award for Best Academic Performance in Undergraduate Study (B.Sc. Applied Mathematics)
+  * By: [The professor Dr. Tab Nilanidhi Foundation](http://www.tabfund.sc.chula.ac.th/main.php), Thailand
+
+* 2017
+  * Outstanding Science Student Award (for highest grade point average (B.Sc. Mathematics))
+  * By: [Faculty of Science, Mahidol University](https://science.mahidol.ac.th/index.php), Thailand
+
+* 2013-2026
+  * Development and Promotion of Science and Technology Talent Project Scholarship (full support from undergraduate through doctoral studies)
+  * By: [The Institute for the Promotion of Teaching Science and Technology (IPST)](https://www.ipst.ac.th/ipsten), Ministry of Education, Thailand
 
