@@ -15,7 +15,7 @@ redirect_from:
 * <strong><u>Buathong, P.</u></strong>, & Frazier, P. I. (2025). Fast Bayesian Optimization of Function Networks with Partial Evaluations. In AutoML 2025 Methods Track. 
   * [Full text](https://proceedings.mlr.press/v293/buathong25a.html), [Preprint](https://arxiv.org/abs/2506.11456), [Github](https://github.com/frazier-lab/partial_kgfn)
 
-* <strong><u>Buathong, P.</u></strong>, Wan, J., Astudillo, R., Daulton, S., Balandat, M., & Frazier, P. I. (2024). Bayesian Optimization of Function Networks with Partial Evaluations. In Forty-first International Conference on Machine Learning (ICML). 
+* <strong><u>Buathong, P.</u></strong>, Wan, J., Astudillo, R., Daulton, S., Balandat, M., & Frazier, P. I. (2024). Bayesian Optimization of Function Networks with Partial Evaluations. In Forty-first International Conference on Machine Learning (ICML2024). 
   * [Full text](https://proceedings.mlr.press/v235/buathong24a.html), [Preprint](https://arxiv.org/abs/2311.02146), [Github](https://github.com/frazier-lab/partial_kgfn)
 
 * <strong><u>Buathong, P.</u></strong>, & Krityakierne, T. (2021). Optimization models for efficient (T, r) broadcast domination in graphs. Symmetry, 13(6), 1028. 
@@ -24,5 +24,5 @@ redirect_from:
 * <strong><u>Buathong, P.</u></strong>, & Krityakierne, T. (2020). Influence of heuristic search strategy for optimizing acquisition function in Bayesian combinatorial optimization. In Annual Pure and Applied Mathematics conference (pp. 252-263). Chulalongkorn University.  
   * [Full text](https://drive.google.com/file/d/1YJDt4BXMR1pW32YW3j9ZGbhEmZ9aZ0Pa/view)
  
-* <strong><u>Buathong, P.</u></strong>, Ginsbourger, D., & Krityakierne, T. (2020). Kernels over sets of finite sets using RKHS embeddings, with application to Bayesian (combinatorial) optimization. In International Conference on Artificial Intelligence and Statistics (AISTATS) (pp. 2731-2741). PMLR. 
+* <strong><u>Buathong, P.</u></strong>, Ginsbourger, D., & Krityakierne, T. (2020). Kernels over sets of finite sets using RKHS embeddings, with application to Bayesian (combinatorial) optimization. In International Conference on Artificial Intelligence and Statistics (AISTATS2020) (pp. 2731-2741). PMLR. 
   * [Full text](https://proceedings.mlr.press/v108/buathong20a.html), [Preprint](https://arxiv.org/abs/1910.04086)
