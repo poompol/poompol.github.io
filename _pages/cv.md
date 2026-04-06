@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My CV in pdf could be found [here](https://drive.google.com/file/d/165n3bHsvXhGUZ3SH27uXohJ4_9RiZ7G8/view?usp=sharing)! (Last updated: March 2026)
+My CV can be found here ([PDF](https://drive.google.com/file/d/165n3bHsvXhGUZ3SH27uXohJ4_9RiZ7G8/view?usp=sharing), last updated: March 2026)
 
 Education
 ======
