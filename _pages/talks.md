@@ -19,47 +19,47 @@ Past talks
 ===
 * <strong style="color:#800020;">March, 2026</strong>
   * Scaling Bayesian Optimization of Composite Functions for High-Dimensional Inverse Problems: Application to Electron Microscopy
-  * Oral Presentation [Slides](https://docs.google.com/presentation/d/1SZMRo_r4Y7lNBHEVyFkJt1Vs4cspix9LZFaEMKLzqxc/edit?usp=sharing)
+  * Oral Presentation [(Slides)](https://docs.google.com/presentation/d/1SZMRo_r4Y7lNBHEVyFkJt1Vs4cspix9LZFaEMKLzqxc/edit?usp=sharing)
   * Adaptive Data Acquisition Methods In Scientific Machine Learning Mini Symposium at SIAM Conference on Uncertainty Quantification (UQ26), Minneapolis, MN, USA
 
 * <strong style="color:#800020;">January, 2026</strong>
   * Solving High-dimensional Image Inverse Problems via Bayesian Optimization: Applications in Electron Microscopy
-  * Oral Presentation [Slides](https://docs.google.com/presentation/d/1sOrrL0VRopOgs0WVsUNYruVjRHvKFmHh30ie00BaTWY/edit?usp=sharing)
+  * Oral Presentation [(Slides)](https://docs.google.com/presentation/d/1sOrrL0VRopOgs0WVsUNYruVjRHvKFmHh30ie00BaTWY/edit?usp=sharing)
   * Mathematics Seminar, Department of Mathematics, Faculty of Science, Mahidol University, Bangkok, Thailand
 
 * <strong style="color:#800020;">October, 2025</strong>
   * Scalable Bayesian Optimization of Composite Functions for High-Dimensional Inverse Problems in Electron Microscopy
-  * Oral Presentation [Slides](https://docs.google.com/presentation/d/1-vVccUSLUNnOdvdk6r_MueNwvzQr0wWSSpcqiRBKbmE/edit?usp=sharing)
+  * Oral Presentation [(Slides)](https://docs.google.com/presentation/d/1-vVccUSLUNnOdvdk6r_MueNwvzQr0wWSSpcqiRBKbmE/edit?usp=sharing)
   * INFORMS 2025, Atlanta, GA, USA
 
 * <strong style="color:#800020;">September, 2025</strong>
   * Bayesian Optimization of a Protein Complex Formulation for Enhanced Thermal Stability in Food Systems
-  * Poster Presentation [Poster](https://drive.google.com/file/d/19Fji7tUMNef3ShETxnwBYv8d8hetUHEn/view?usp=sharing)
+  * Poster Presentation [(Poster)](https://drive.google.com/file/d/19Fji7tUMNef3ShETxnwBYv8d8hetUHEn/view?usp=sharing)
   * CAFE workshop in AutoML 2025 conference, New York City, NY, USA
  
 * <strong style="color:#800020;">September, 2025</strong>
   * Fast Bayesian Optimization of Function Networks with Partial Evaluations
-  * Oral & Poster Presentations [Slides](https://docs.google.com/presentation/d/1n7ipdD_QUqMjMDhgt8QlBDLuJxAO86zWpy26OXkUnyw/edit?usp=sharing), [Poster](https://drive.google.com/file/d/10mY32XoV53Sqyt2lGB6aSWsAXMdKVaby/view?usp=sharing)
+  * Oral & Poster Presentations [(Slides)](https://docs.google.com/presentation/d/1n7ipdD_QUqMjMDhgt8QlBDLuJxAO86zWpy26OXkUnyw/edit?usp=sharing), [(Poster)](https://drive.google.com/file/d/10mY32XoV53Sqyt2lGB6aSWsAXMdKVaby/view?usp=sharing)
   * AutoML 2025, New York City, NY, USA
 
 * <strong style="color:#800020;">August, 2025</strong>
   * Accelerating Nanoscale Characterization with Bayesian Optimization of Electron Microscopy 
-  * Poster Presentation [Poster](https://drive.google.com/file/d/10Ieilnp1Bpj0Hr1Jyk3nfa_o8OmjxIMl/view?usp=sharing)
+  * Poster Presentation [(Poster)](https://drive.google.com/file/d/10Ieilnp1Bpj0Hr1Jyk3nfa_o8OmjxIMl/view?usp=sharing)
   * Accelerate 2025, Toronto, ON, Canada
  
 * <strong style="color:#800020;">October, 2024</strong>
   * Bayesian Optimization for Scientific Discovery: the Value of Function Networks and Partial Evaluations
-  * Oral Presentation [Slides](https://docs.google.com/presentation/d/1lam348HCz8MUityOKNOebBykySweK7IIFLs-ZMwirnQ/edit?usp=sharing)
+  * Oral Presentation [(Slides)](https://docs.google.com/presentation/d/1lam348HCz8MUityOKNOebBykySweK7IIFLs-ZMwirnQ/edit?usp=sharing)
   * INFORMS 2024, Seattle, WA, USA
 
 * <strong style="color:#800020;">July, 2024</strong>
   * Bayesian Optimization of Function Networks with Partial Evaluations
-  * Poster Presentation [Poster](https://drive.google.com/file/d/1kZAo7vP_NG7Jtup0JOsjOvGO-OUTZFRW/view?usp=sharing)
+  * Poster Presentation [(Poster)](https://drive.google.com/file/d/1kZAo7vP_NG7Jtup0JOsjOvGO-OUTZFRW/view?usp=sharing)
   * International Conference on Machine Learning (ICML 2024), Vienna, Austria
 
 * <strong style="color:#800020;">July, 2024</strong>
   * Bayesian Optimization of Function Networks with Partial Evaluations
-  * Oral Presentation [Slides](https://docs.google.com/presentation/d/19CMRj18H_-EazAvt-nQxi4BxrwI7wqcwbs6VUIQCcGY/edit?usp=sharing)
+  * Oral Presentation [(Slides)](https://docs.google.com/presentation/d/19CMRj18H_-EazAvt-nQxi4BxrwI7wqcwbs6VUIQCcGY/edit?usp=sharing)
   * A-Exam (Candidacy Exam), Cornell University, NY, USA
 
 * <strong style="color:#800020;">October, 2023</strong>
