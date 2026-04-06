@@ -13,7 +13,7 @@ Upcoming talks
 * <strong style="color:#800020;">June, 2026</strong>
   * Better Protein Function Prediction by Modeling Survivorship Bias
   * Oral Presentation 
-  * AI4X – Accelerate Conference 2026, Singapore
+  * [AI4X – Accelerate Conference 2026](https://ai4x.cc/), Singapore
 
 Past talks
 ===
