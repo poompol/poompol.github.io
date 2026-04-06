@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* * <strong style="color:#800020;">May-August, 2025: Graduate Research Assistant</strong>
+* <strong style="color:#800020;">May-August, 2025: Graduate Research Assistant</strong>
   * Affiliation: School of Operations Research and Information Engineering (ORIE), Cornell University, USA
   * Supervisor: [Prof. Peter Frazier](https://people.orie.cornell.edu/pfrazier/)
 
