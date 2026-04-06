@@ -6,9 +6,17 @@ author_profile: true
 redirect_from:
   - /talks
 ---
-
 {% include base_path %}
 
+Upcoming talks
+===
+* <strong style="color:#800020;">June, 2026</strong>
+  * Better Protein Function Prediction by Modeling Survivorship Bias
+  * Oral Presentation 
+  * AI4X – Accelerate Conference 2026, Singapore
+
+Past talks
+===
 * <strong style="color:#800020;">March, 2026</strong>
   * Scaling Bayesian Optimization of Composite Functions for High-Dimensional Inverse Problems: Application to Electron Microscopy
   * Oral Presentation 
