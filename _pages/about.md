@@ -15,4 +15,5 @@ I am a recipient of the DPST scholarship from [Institute for the Promotion of Te
 My research focuses on Bayesian optimization, machine learning, and their applications to scientific problems, including food science, materials design, and chemistry.
 
 Please feel free to reach out at: [pb482\[at\]cornell\[dot\]edu](mailto:pb482@cornell.edu)
+
 Last updated: April 9, 2026
