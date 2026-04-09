@@ -19,7 +19,7 @@ Past talks
 ===
 * <strong style="color:#800020;">March, 2026</strong>
   * Scaling Bayesian Optimization of Composite Functions for High-Dimensional Inverse Problems: Application to Electron Microscopy
-  * Oral Presentation [\[Slides\]](https://docs.google.com/presentation/d/1SZMRo_r4Y7lNBHEVyFkJt1Vs4cspix9LZFaEMKLzqxc/edit?usp=sharing)
+  * Oral Presentation \[[Slides](https://docs.google.com/presentation/d/1SZMRo_r4Y7lNBHEVyFkJt1Vs4cspix9LZFaEMKLzqxc/edit?usp=sharing)\]
   * Adaptive Data Acquisition Methods In Scientific Machine Learning Mini Symposium at SIAM Conference on Uncertainty Quantification (UQ26), Minneapolis, MN, USA
 
 * <strong style="color:#800020;">January, 2026</strong>
