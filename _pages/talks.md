@@ -79,7 +79,7 @@ Past talks
 
 * <strong style="color:#800020;">July, 2020</strong>
   * Positive Definite Kernels on Sets of Finite Sets with Application to Gaussian Process Probabilistic Prediction and Bayesian Optimization
-  * Oral Presentation
+  * Oral Presentation \[[Slides](https://docs.google.com/presentation/d/1_a906tqY_USXfBoUVe5KPAgDvQjjkofw/edit?usp=sharing&ouid=107614732132738536759&rtpof=true&sd=true)\]
   * M.Sc. Thesis Defense, Mahidol University, Bangkok, Thailand
 
 * <strong style="color:#800020;">June, 2020</strong>
