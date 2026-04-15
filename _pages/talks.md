@@ -94,7 +94,7 @@ Past talks
 
 * <strong style="color:#800020;">December, 2018</strong>
   * A RKHS Embedding Approach to Gaussian Process Regression When Inputs are Point Sets
-  * Oral Presentation
+  * Oral Presentation \[[Slides](https://drive.google.com/file/d/12Cfod_gxyj7dMyxkkQUmAXASdM0Xh3sw/view?usp=share_link)\]
   * ICMA-MU 2018: International Conference in Mathematics and Applications, Bangkok, Thailand
 
 * <strong style="color:#800020;">March, 2016</strong>
