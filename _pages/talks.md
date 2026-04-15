@@ -84,12 +84,12 @@ Past talks
 
 * <strong style="color:#800020;">June, 2020</strong>
   * Influence of Heuristic Search Strategy for Optimization Acquisition Function in Bayesian Combinatorial Optimization
-  * Oral Presentation
+  * Oral Presentation \[[Slides](https://drive.google.com/file/d/1SbRUwWFsm99rxRf2j2fdspa7hmdlsFmJ/view?usp=sharing)\]
   * Annual Pure and Applied Mathematics National Conference (APAM 2020), Online
 
 * <strong style="color:#800020;">July, 2019</strong>
   * Gaussian Process Regression with Set Inputs
-  * Oral Presentation
+  * Oral Presentation \[[Slides](https://drive.google.com/file/d/12ZZTzS5Nl00CACu3MgNwKki5Ok7Qq0x7/view?usp=share_link)\]
   * Tuesday Afternoon Meeting (TAM), Idiap Research Institute, Martigny, Switzerland
 
 * <strong style="color:#800020;">December, 2018</strong>
