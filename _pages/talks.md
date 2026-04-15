@@ -99,5 +99,5 @@ Past talks
 
 * <strong style="color:#800020;">March, 2016</strong>
   * Daily Food Planning for Thai Children (Age 1-3 year) by using a Mathematical Model
-  * Oral Presentation
+  * Oral Presentation \[[Slides (Thai)](https://drive.google.com/file/d/1umovIj7RGvfQY9mvmMcxBgxdxsFMWYIf/view?usp=share_link)\]
   * Operations Research Network of Thailand (OR-NET) Conference 2016, Bangkok, Thailand
