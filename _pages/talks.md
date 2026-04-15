@@ -74,7 +74,7 @@ Past talks
 
 * <strong style="color:#800020;">December, 2020</strong>
   * A Linear Programming Approach to (t,r) Broadcast Domination Number
-  * Oral Presentation
+  * Oral Presentation \[[Slides](https://drive.google.com/file/d/1TgZhMWsvaUSesTdJt-Ha3kWqBscTGaJH/view?usp=sharing)\]
   * ICMA-MU 2020: International Conference in Mathematics and Applications, Bangkok, Thailand
 
 * <strong style="color:#800020;">July, 2020</strong>
