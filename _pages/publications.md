@@ -8,6 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
+\* Equal contribution
 * <strong style="color:#800020;">2026</strong>
   * Khongkomolsakul, W.*, <strong><u>Buathong, P.</u></strong>\*, Yang, E., Dadmohammadi, Y., Zhou, Y., Li, P., Yang, L., Frazier, P. & Abbaspourrad, A. (2026). Improving Thermal and Gastric Stability of Phytase via pH Shifting and Coacervation: A Demonstration of Bayesian Optimization for Rapid Process Tuning. Food Hydrocolloids, 174, 112296. 
     * [Full text](https://www.sciencedirect.com/science/article/pii/S0268005X25012561), [Preprint](https://www.biorxiv.org/content/10.1101/2025.04.18.649602v1.abstract)
@@ -31,4 +32,4 @@ redirect_from:
   * <strong><u>Buathong, P.</u></strong>\*, Ginsbourger, D.*, & Krityakierne, T. (2020). Kernels over sets of finite sets using RKHS embeddings, with application to Bayesian (combinatorial) optimization. In International Conference on Artificial Intelligence and Statistics (AISTATS2020) (pp. 2731-2741). PMLR. 
     * [Full text](https://proceedings.mlr.press/v108/buathong20a.html), [Preprint](https://arxiv.org/abs/1910.04086)
 
-  \* Equal contribution
+  
