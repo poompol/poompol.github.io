@@ -154,7 +154,7 @@ redirect_from:
 
 <div class="cv-section-title">Work experience</div>
 
-<div class="cv-date">May–August, 2026</div>
+<div class="cv-date">May – August, 2026</div>
 
 <div class="cv-card">
   <div class="cv-title">Graduate Research Assistant</div>
@@ -162,7 +162,7 @@ redirect_from:
   <div class="cv-detail">Supervisor: <a href="https://people.orie.cornell.edu/pfrazier/">Prof. Peter Frazier</a></div>
 </div>
 
-<div class="cv-date">May–August, 2025</div>
+<div class="cv-date">May – August, 2025</div>
 
 <div class="cv-card">
   <div class="cv-title">Graduate Research Assistant</div>
@@ -170,7 +170,7 @@ redirect_from:
   <div class="cv-detail">Supervisor: <a href="https://people.orie.cornell.edu/pfrazier/">Prof. Peter Frazier</a></div>
 </div>
 
-<div class="cv-date">May–August, 2024</div>
+<div class="cv-date">May – August, 2024</div>
 
 <div class="cv-card">
   <div class="cv-title">Graduate Research Assistant</div>
@@ -178,7 +178,7 @@ redirect_from:
   <div class="cv-detail">Supervisor: <a href="https://people.orie.cornell.edu/pfrazier/">Prof. Peter Frazier</a></div>
 </div>
 
-<div class="cv-date">August–December, 2020</div>
+<div class="cv-date">August – December, 2020</div>
 
 <div class="cv-card">
   <div class="cv-title">Research Assistant</div>
@@ -187,7 +187,7 @@ redirect_from:
   <div class="cv-detail">Supervisor: <a href="https://science.mahidol.ac.th/expertise/search.php?q=Tipaluck%20Krityakierne">Assoc. Prof. Tipaluck Krityakierne</a></div>
 </div>
 
-<div class="cv-date">March–August, 2019</div>
+<div class="cv-date">March – August, 2019</div>
 
 <div class="cv-card">
   <div class="cv-title">Research Intern</div>
