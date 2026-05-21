@@ -128,28 +128,28 @@ redirect_from:
 
 <div class="cv-card">
   <div class="cv-title">Ph.D. in Applied Mathematics</div>
-  <div class="cv-subtitle">Cornell University</div>
+  <div class="cv-subtitle">Cornell University, USA</div>
 </div>
 
 <div class="cv-date">2024</div>
 
 <div class="cv-card">
   <div class="cv-title">M.Sc. in Applied Mathematics</div>
-  <div class="cv-subtitle">Cornell University</div>
+  <div class="cv-subtitle">Cornell University, USA</div>
 </div>
 
 <div class="cv-date">2020</div>
 
 <div class="cv-card">
   <div class="cv-title">M.Sc. in Applied Mathematics</div>
-  <div class="cv-subtitle">Mahidol University</div>
+  <div class="cv-subtitle">Mahidol University, Thailand</div>
 </div>
 
 <div class="cv-date">2017</div>
 
 <div class="cv-card">
   <div class="cv-title">B.Sc. in Mathematics</div>
-  <div class="cv-subtitle">Mahidol University</div>
+  <div class="cv-subtitle">Mahidol University, Thailand</div>
 </div>
 
 <div class="cv-section-title">Work experience</div>
