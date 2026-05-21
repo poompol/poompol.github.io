@@ -154,6 +154,14 @@ redirect_from:
 
 <div class="cv-section-title">Work experience</div>
 
+<div class="cv-date">May–August, 2026</div>
+
+<div class="cv-card">
+  <div class="cv-title">Graduate Research Assistant</div>
+  <div class="cv-subtitle">School of Operations Research and Information Engineering (ORIE), Cornell University, USA</div>
+  <div class="cv-detail">Supervisor: <a href="https://people.orie.cornell.edu/pfrazier/">Prof. Peter Frazier</a></div>
+</div>
+
 <div class="cv-date">May–August, 2025</div>
 
 <div class="cv-card">
@@ -175,6 +183,7 @@ redirect_from:
 <div class="cv-card">
   <div class="cv-title">Research Assistant</div>
   <div class="cv-subtitle">Department of Mathematics, Faculty of Science, Mahidol University, Thailand</div>
+  <div class="cv-detail">Topic: Optimization models for efficient (T, r) broadcast domination in graphs</div>
   <div class="cv-detail">Supervisor: <a href="https://science.mahidol.ac.th/expertise/search.php?q=Tipaluck%20Krityakierne">Assoc. Prof. Tipaluck Krityakierne</a></div>
 </div>
 
