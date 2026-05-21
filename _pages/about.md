@@ -124,7 +124,7 @@ My master’s thesis focused on Bayesian optimization for set-valued input funct
 <a href="https://sites.google.com/view/tipaluck/">Assoc. Prof. Tipaluck Krityakierne</a>, 
 with co-supervision from 
 <a href="https://ginsbourger.github.io">Prof. David Ginsbourger</a> 
-during my internship at Idiap Research Institute, Switzerland. 
+during my internship at <a href="https://www.idiap.ch/en/">Idiap Research Institute</a>, Switzerland. 
 I also obtained a second Master’s degree in Applied Mathematics from Cornell University in 2024.
 </div>
 
