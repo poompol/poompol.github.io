@@ -166,7 +166,7 @@ text-transform:uppercase;
 color:#800020;
 margin-bottom:0.8rem;
 ">
-Bayesian Optimization
+Black-box Optimization
 </div>
 
 <div class="home-name" style="
@@ -238,16 +238,47 @@ font-size:2rem;
 margin-bottom:1rem;
 line-height:1.05;
 ">
-Protein Design & Function Prediction
+Protein Function Prediction
 </div>
 
 <div class="home-text">
-Developing machine learning methods for scientific discovery, including protein function prediction under heavily biased evolutionary data and Bayesian optimization approaches for protein formulation design in food systems.
+Developing machine learning methods for protein function prediction under heavily biased evolutionary and surveillance data using positive-unlabeled learning and evolutionary modeling.
 </div>
 
 <div class="home-links">
 <a href="https://arxiv.org/abs/2605.06879">🧬 Evo-PU</a>
-<a href="https://www.sciencedirect.com/science/article/pii/S0268005X25012561">🥛 Formulation Design</a>
+</div>
+
+</div>
+
+<!-- Research Card 4 -->
+<div class="home-card">
+
+<div style="
+font-size:0.78rem;
+font-weight:800;
+letter-spacing:0.18em;
+text-transform:uppercase;
+color:#800020;
+margin-bottom:0.8rem;
+">
+AI for Science
+</div>
+
+<div class="home-name" style="
+font-size:2rem;
+margin-bottom:1rem;
+line-height:1.05;
+">
+Formulation Design
+</div>
+
+<div class="home-text">
+Applying Bayesian optimization and machine learning to optimize protein formulation design for improved thermal stability and functionality in food systems.
+</div>
+
+<div class="home-links">
+<a href="https://www.sciencedirect.com/science/article/pii/S0268005X25012561">🥛 Paper</a>
 </div>
 
 </div>
