@@ -13,7 +13,7 @@ redirect_from:
 .page {
   max-width: none !important;
   width: calc(100vw - 620px) !important;
-  margin-left: 450px !important;
+  margin-left: 400px !important;
   padding-right: 2rem !important;
 }
 
