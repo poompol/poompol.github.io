@@ -12,7 +12,8 @@ redirect_from:
 /* Expand content area correctly */
 .page {
   max-width: none !important;
-  width: calc(100vw - 420px) !important;
+  width: calc(100vw - 500px) !important;
+  margin-left: 360px !important;
   padding-right: 2rem !important;
 }
 
@@ -161,6 +162,7 @@ redirect_from:
 
   .page {
     width: 100% !important;
+    margin-left: 0 !important;
     padding-right: 0 !important;
   }
 
