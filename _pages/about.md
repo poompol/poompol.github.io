@@ -9,14 +9,17 @@ redirect_from:
 
 <style>
 
-/* Expand entire website width */
-.initial-content,
-.page,
+/* Expand content area correctly */
+.page {
+  max-width: none !important;
+  width: calc(100vw - 420px) !important;
+  padding-right: 2rem !important;
+}
+
 .page__inner-wrap,
-.layout--single,
 .archive {
-  max-width: 98vw !important;
-  width: 98vw !important;
+  max-width: none !important;
+  width: 100% !important;
 }
 
 /* Keep sidebar visible */
@@ -33,7 +36,7 @@ redirect_from:
   display: grid;
   grid-template-columns: 3fr 1.15fr;
   gap: 1.8rem;
-  align-items: stretch;
+  align-items: start;
   width: 100%;
 }
 
@@ -155,6 +158,12 @@ redirect_from:
 }
 
 @media (max-width: 1100px) {
+
+  .page {
+    width: 100% !important;
+    padding-right: 0 !important;
+  }
+
   .home-top-grid {
     grid-template-columns: 1fr;
   }
