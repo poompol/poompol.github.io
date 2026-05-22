@@ -35,7 +35,7 @@ redirect_from:
 
 .home-top-grid {
   display: grid;
-  grid-template-columns: 3fr 1.15fr;
+  grid-template-columns: 2.4fr 1fr;
   gap: 1.8rem;
   align-items: start;
   width: 100%;
@@ -49,7 +49,6 @@ redirect_from:
   margin-bottom: 1.4rem;
   box-shadow: 0 2px 10px rgba(15, 23, 42, 0.05);
   transition: all 0.18s ease;
-  height: 100%;
 }
 
 .home-card:hover {
@@ -145,7 +144,7 @@ redirect_from:
 .travel-location {
   color: #64748b;
   font-size: 0.92rem;
-  margin-bottom: 1.2rem;
+  margin-bottom: 0.9rem;
 }
 
 .travel-title a {
