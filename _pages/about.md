@@ -146,6 +146,114 @@ My research focuses on Bayesian optimization, machine learning, and their applic
 
 </div>
 
+<div class="home-section-title">Research Highlights</div>
+
+<div style="
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+gap:1.4rem;
+margin-top:1.2rem;
+">
+
+<!-- Research Card 1 -->
+<div class="home-card">
+
+<div style="
+font-size:0.78rem;
+font-weight:800;
+letter-spacing:0.18em;
+text-transform:uppercase;
+color:#800020;
+margin-bottom:0.8rem;
+">
+Bayesian Optimization
+</div>
+
+<div class="home-name" style="
+font-size:2rem;
+margin-bottom:1rem;
+line-height:1.05;
+">
+Set-valued Input Functions
+</div>
+
+<div class="home-text">
+Developed kernel methods and Bayesian optimization techniques for optimization problems where the inputs are sets rather than fixed-dimensional vectors, enabling black-box optimization over combinatorial and structured domains.
+</div>
+
+<div class="home-links">
+<a href="https://arxiv.org/abs/1910.04086">📄 Paper</a>
+</div>
+
+</div>
+
+<!-- Research Card 2 -->
+<div class="home-card">
+
+<div style="
+font-size:0.78rem;
+font-weight:800;
+letter-spacing:0.18em;
+text-transform:uppercase;
+color:#800020;
+margin-bottom:0.8rem;
+">
+Grey-box Bayesian Optimization
+</div>
+
+<div class="home-name" style="
+font-size:2rem;
+margin-bottom:1rem;
+line-height:1.05;
+">
+Function Networks & Partial Evaluations
+</div>
+
+<div class="home-text">
+Developed Bayesian optimization methods that exploit internal objective-function structure and partial evaluations, substantially improving sample efficiency for expensive scientific optimization problems.
+</div>
+
+<div class="home-links">
+<a href="https://proceedings.mlr.press/v235/buathong24a.html">📄 Paper</a>
+</div>
+
+</div>
+
+<!-- Research Card 3 -->
+<div class="home-card">
+
+<div style="
+font-size:0.78rem;
+font-weight:800;
+letter-spacing:0.18em;
+text-transform:uppercase;
+color:#800020;
+margin-bottom:0.8rem;
+">
+AI for Science
+</div>
+
+<div class="home-name" style="
+font-size:2rem;
+margin-bottom:1rem;
+line-height:1.05;
+">
+Protein Design & Function Prediction
+</div>
+
+<div class="home-text">
+Developing machine learning methods for scientific discovery, including protein function prediction under heavily biased evolutionary data and Bayesian optimization approaches for protein formulation design in food systems.
+</div>
+
+<div class="home-links">
+<a href="https://arxiv.org/abs/2605.06879">🧬 Evo-PU</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0268005X25012561">🥛 Formulation Design</a>
+</div>
+
+</div>
+
+</div>
+
 <div class="home-text" style="text-align:right; margin-top:0.5rem;">
 Last updated: <strong style="color:#800020;">May 21, 2026</strong>
 </div>
