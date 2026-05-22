@@ -13,6 +13,13 @@ redirect_from:
   margin-bottom: 2rem;
 }
 
+.home-top-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 2.2fr) minmax(260px, 0.9fr);
+  gap: 1.4rem;
+  align-items: start;
+}
+
 .home-card {
   background: #ffffff;
   border: 1px solid #e5e7eb;
@@ -95,9 +102,50 @@ redirect_from:
   font-weight: 800;
   color: #111827;
 }
+
+.travel-date {
+  font-size: 0.82rem;
+  font-weight: 800;
+  color: #800020;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 0.35rem;
+}
+
+.travel-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #111827;
+  line-height: 1.4;
+  margin-bottom: 0.25rem;
+}
+
+.travel-location {
+  color: #64748b;
+  font-size: 0.92rem;
+  margin-bottom: 1rem;
+}
+
+.travel-title a {
+  color: #111827;
+  text-decoration: none;
+}
+
+.travel-title a:hover {
+  color: #2563eb;
+  text-decoration: underline;
+}
+
+@media (max-width: 1100px) {
+  .home-top-grid {
+    grid-template-columns: 1fr;
+  }
+}
 </style>
 
 <div class="home-intro">
+
+<div class="home-top-grid">
 
 <div class="home-card">
 
@@ -134,7 +182,7 @@ I am a recipient of the DPST scholarship from the
 </div>
 
 <div class="home-text">
-My research focuses on Bayesian optimization (BO), machine learning, and their applications to scientific problems, including food science, materials design, and chemistry.
+My research focuses on Bayesian optimization, machine learning, and their applications to scientific problems, including food science, materials design, and chemistry.
 </div>
 
 <div class="home-links">
@@ -142,6 +190,34 @@ My research focuses on Bayesian optimization (BO), machine learning, and their a
   <a href="/cv/">📄 CV</a>
   <a href="/publications/">📚 Publications</a>
   <a href="/talks/">🎤 Talks</a>
+</div>
+
+</div>
+
+<div class="home-card">
+
+<div class="home-name" style="font-size:1.45rem; margin-bottom:1.2rem;">
+Upcoming Travels
+</div>
+
+<div class="travel-date">June 14–19, 2026</div>
+<div class="travel-title">
+  <a href="https://ai4x.cc/">AI4X – Accelerate Conference</a>
+</div>
+<div class="travel-location">Singapore</div>
+
+<div class="travel-date">July 31–August 3, 2026</div>
+<div class="travel-title">
+  <a href="https://isim2026.ise.ncsu.edu/">i-SIM Workshop</a>
+</div>
+<div class="travel-location">Raleigh, NC</div>
+
+<div class="travel-date">November 1–4, 2026</div>
+<div class="travel-title">
+  <a href="https://meetings.informs.org/wordpress/annual/">INFORMS Annual Meeting</a>
+</div>
+<div class="travel-location">San Francisco, CA</div>
+
 </div>
 
 </div>
@@ -278,7 +354,7 @@ Applying Bayesian optimization and machine learning to optimize protein formulat
 </div>
 
 <div class="home-links">
-<a href="https://www.sciencedirect.com/science/article/pii/S0268005X25012561">🥛 Formulation design</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0268005X25012561">🥛 Formulation Design</a>
 </div>
 
 </div>
