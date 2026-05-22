@@ -9,17 +9,19 @@ redirect_from:
 
 <style>
 
-/* Expand website width */
-.page {
-  max-width: 95vw !important;
-}
-
-.page__inner-wrap {
-  max-width: 95vw !important;
-}
-
+/* Expand entire website width */
+.initial-content,
+.page,
+.page__inner-wrap,
+.layout--single,
 .archive {
-  max-width: 95vw !important;
+  max-width: 98vw !important;
+  width: 98vw !important;
+}
+
+/* Keep sidebar visible */
+.sidebar {
+  opacity: 1 !important;
 }
 
 .home-intro {
@@ -29,8 +31,8 @@ redirect_from:
 
 .home-top-grid {
   display: grid;
-  grid-template-columns: 2.8fr 1.2fr;
-  gap: 1.6rem;
+  grid-template-columns: 3fr 1.15fr;
+  gap: 1.8rem;
   align-items: stretch;
   width: 100%;
 }
@@ -39,7 +41,7 @@ redirect_from:
   background: #ffffff;
   border: 1px solid #e5e7eb;
   border-radius: 18px;
-  padding: 1.6rem 1.7rem;
+  padding: 1.7rem 1.8rem;
   margin-bottom: 1.4rem;
   box-shadow: 0 2px 10px rgba(15, 23, 42, 0.05);
   transition: all 0.18s ease;
@@ -112,9 +114,9 @@ redirect_from:
 }
 
 .home-section-title {
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
-  font-size: 1.7rem;
+  margin-top: 2.7rem;
+  margin-bottom: 1.2rem;
+  font-size: 1.8rem;
   font-weight: 800;
   color: #111827;
 }
@@ -139,7 +141,7 @@ redirect_from:
 .travel-location {
   color: #64748b;
   font-size: 0.92rem;
-  margin-bottom: 1rem;
+  margin-bottom: 1.2rem;
 }
 
 .travel-title a {
