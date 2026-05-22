@@ -8,6 +8,20 @@ redirect_from:
 ---
 
 <style>
+
+/* Expand website width */
+.page {
+  max-width: 95vw !important;
+}
+
+.page__inner-wrap {
+  max-width: 95vw !important;
+}
+
+.archive {
+  max-width: 95vw !important;
+}
+
 .home-intro {
   margin-top: 0.5rem;
   margin-bottom: 2rem;
@@ -15,9 +29,10 @@ redirect_from:
 
 .home-top-grid {
   display: grid;
-  grid-template-columns: minmax(0, 2.2fr) minmax(260px, 0.9fr);
-  gap: 1.4rem;
-  align-items: start;
+  grid-template-columns: 2.8fr 1.2fr;
+  gap: 1.6rem;
+  align-items: stretch;
+  width: 100%;
 }
 
 .home-card {
@@ -28,6 +43,7 @@ redirect_from:
   margin-bottom: 1.4rem;
   box-shadow: 0 2px 10px rgba(15, 23, 42, 0.05);
   transition: all 0.18s ease;
+  height: 100%;
 }
 
 .home-card:hover {
@@ -141,6 +157,7 @@ redirect_from:
     grid-template-columns: 1fr;
   }
 }
+
 </style>
 
 <div class="home-intro">
