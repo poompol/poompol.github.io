@@ -214,7 +214,7 @@ My research focuses on Bayesian optimization, machine learning, and their applic
 <div class="home-card">
 
 <div class="home-name" style="font-size:1.45rem; margin-bottom:1.2rem;">
-Upcoming Travels
+✈️ Upcoming Travels
 </div>
 
 <div class="travel-date">June 14–19, 2026</div>
