@@ -134,7 +134,7 @@ I am a recipient of the DPST scholarship from the
 </div>
 
 <div class="home-text">
-My research focuses on Bayesian optimization, machine learning, and their applications to scientific problems, including food science, materials design, and chemistry.
+My research focuses on Bayesian optimization (BO), machine learning, and their applications to scientific problems, including food science, materials design, and chemistry.
 </div>
 
 <div class="home-links">
@@ -182,7 +182,7 @@ Developed kernel methods and Bayesian optimization techniques for optimization p
 </div>
 
 <div class="home-links">
-<a href="https://arxiv.org/abs/1910.04086">📄 Paper</a>
+<a href="https://arxiv.org/abs/1910.04086">🧩 Set-valued BO</a>
 </div>
 
 </div>
@@ -214,7 +214,7 @@ Developed Bayesian optimization methods that exploit internal objective-function
 </div>
 
 <div class="home-links">
-<a href="https://proceedings.mlr.press/v235/buathong24a.html">📄 Paper</a>
+<a href="https://proceedings.mlr.press/v235/buathong24a.html">🕸️ pKGFN</a>
 </div>
 
 </div>
@@ -278,7 +278,7 @@ Applying Bayesian optimization and machine learning to optimize protein formulat
 </div>
 
 <div class="home-links">
-<a href="https://www.sciencedirect.com/science/article/pii/S0268005X25012561">🥛 Paper</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0268005X25012561">🥛 Formulation design</a>
 </div>
 
 </div>
