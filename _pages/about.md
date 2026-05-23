@@ -12,7 +12,7 @@ redirect_from:
 /* Expand content area correctly */
 .page {
   max-width: none !important;
-  width: calc(100vw - 450px) !important;
+  width: calc(100vw - 400px) !important;
   margin-left: 350px !important;
   padding-right: 2rem !important;
 }
