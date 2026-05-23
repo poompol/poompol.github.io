@@ -271,7 +271,7 @@ text-transform:uppercase;
 color:#800020;
 margin-bottom:0.8rem;
 ">
-Black-box Optimization
+Kernel Methods
 </div>
 
 <div class="home-name" style="
