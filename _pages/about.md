@@ -12,9 +12,10 @@ redirect_from:
 /* Expand content area correctly */
 .page {
   max-width: none !important;
-  width: calc(100vw - 520px) !important;
-  margin-left: 430px !important;
-  padding-right: 2rem !important;
+  width: auto !important;
+  margin-left: 320px !important;
+  margin-right: 4rem !important;
+  padding-right: 0 !important;
 }
 
 .page__inner-wrap,
@@ -158,10 +159,10 @@ redirect_from:
 }
 
 @media (max-width: 1300px) {
-
   .page {
-    width: 100% !important;
+    width: auto !important;
     margin-left: 0 !important;
+    margin-right: 0 !important;
     padding-right: 0 !important;
   }
 
