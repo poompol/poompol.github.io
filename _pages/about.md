@@ -9,12 +9,15 @@ redirect_from:
 
 <style>
 
-/* Expand content area correctly */
+/* =========================
+   Main page layout
+   ========================= */
+
 .page {
   max-width: none !important;
   width: auto !important;
   margin-left: 320px !important;
-  margin-right: 4rem !important;
+  margin-right: 3rem !important;
   padding-right: 0 !important;
 }
 
@@ -24,10 +27,14 @@ redirect_from:
   width: 100% !important;
 }
 
-/* Keep sidebar visible */
 .sidebar {
   opacity: 1 !important;
+  z-index: 1;
 }
+
+/* =========================
+   Home layout
+   ========================= */
 
 .home-intro {
   margin-top: 0.5rem;
@@ -36,7 +43,7 @@ redirect_from:
 
 .home-top-grid {
   display: grid;
-  grid-template-columns: 2.4fr 1fr;
+  grid-template-columns: minmax(0, 2.4fr) minmax(260px, 1fr);
   gap: 1.8rem;
   align-items: start;
   width: 100%;
@@ -50,6 +57,7 @@ redirect_from:
   margin-bottom: 1.4rem;
   box-shadow: 0 2px 10px rgba(15, 23, 42, 0.05);
   transition: all 0.18s ease;
+  min-width: 0;
 }
 
 .home-card:hover {
@@ -125,6 +133,10 @@ redirect_from:
   color: #111827;
 }
 
+/* =========================
+   Travels
+   ========================= */
+
 .travel-date {
   font-size: 0.82rem;
   font-weight: 800;
@@ -158,17 +170,67 @@ redirect_from:
   text-decoration: underline;
 }
 
+/* =========================
+   Research grid
+   ========================= */
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.4rem;
+  margin-top: 1.2rem;
+}
+
+/* =========================
+   Responsive fix
+   ========================= */
+
 @media (max-width: 1500px) {
   .page {
-    width: auto !important;
+    margin-left: 300px !important;
+    margin-right: 2rem !important;
+  }
+
+  .home-top-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+@media (max-width: 1200px) {
+  .sidebar {
+    display: none !important;
+  }
+
+  .page {
+    width: 100% !important;
+    max-width: none !important;
     margin-left: 0 !important;
     margin-right: 0 !important;
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+  }
+
+  .home-top-grid {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+@media (max-width: 700px) {
+  .page {
     padding-left: 1rem !important;
     padding-right: 1rem !important;
   }
 
-  .home-top-grid {
-    grid-template-columns: 1fr;
+  .home-card {
+    padding: 1.3rem 1.2rem;
+  }
+
+  .home-name {
+    font-size: 1.6rem;
+  }
+
+  .home-section-title {
+    font-size: 1.5rem;
   }
 }
 
@@ -255,32 +317,14 @@ My research focuses on Bayesian optimization, machine learning, and their applic
 
 <div class="home-section-title">Research Highlights</div>
 
-<div style="
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
-gap:1.4rem;
-margin-top:1.2rem;
-">
+<div class="research-grid">
 
-<!-- Research Card 1 -->
 <div class="home-card">
-
-<div style="
-font-size:0.78rem;
-font-weight:800;
-letter-spacing:0.18em;
-text-transform:uppercase;
-color:#800020;
-margin-bottom:0.8rem;
-">
+<div style="font-size:0.78rem;font-weight:800;letter-spacing:0.18em;text-transform:uppercase;color:#800020;margin-bottom:0.8rem;">
 Kernel Methods
 </div>
 
-<div class="home-name" style="
-font-size:2rem;
-margin-bottom:1rem;
-line-height:1.05;
-">
+<div class="home-name" style="font-size:2rem;margin-bottom:1rem;line-height:1.05;">
 Set-valued Input Functions
 </div>
 
@@ -291,28 +335,14 @@ Developed kernel methods and Bayesian optimization techniques for optimization p
 <div class="home-links">
 <a href="https://arxiv.org/abs/1910.04086">🧩 Set-valued BO</a>
 </div>
-
 </div>
 
-<!-- Research Card 2 -->
 <div class="home-card">
-
-<div style="
-font-size:0.78rem;
-font-weight:800;
-letter-spacing:0.18em;
-text-transform:uppercase;
-color:#800020;
-margin-bottom:0.8rem;
-">
+<div style="font-size:0.78rem;font-weight:800;letter-spacing:0.18em;text-transform:uppercase;color:#800020;margin-bottom:0.8rem;">
 Grey-box Bayesian Optimization
 </div>
 
-<div class="home-name" style="
-font-size:2rem;
-margin-bottom:1rem;
-line-height:1.05;
-">
+<div class="home-name" style="font-size:2rem;margin-bottom:1rem;line-height:1.05;">
 Function Networks & Partial Evaluations
 </div>
 
@@ -323,28 +353,14 @@ Developed Bayesian optimization methods that exploit internal objective-function
 <div class="home-links">
 <a href="https://proceedings.mlr.press/v235/buathong24a.html">🕸️ pKGFN</a>
 </div>
-
 </div>
 
-<!-- Research Card 3 -->
 <div class="home-card">
-
-<div style="
-font-size:0.78rem;
-font-weight:800;
-letter-spacing:0.18em;
-text-transform:uppercase;
-color:#800020;
-margin-bottom:0.8rem;
-">
+<div style="font-size:0.78rem;font-weight:800;letter-spacing:0.18em;text-transform:uppercase;color:#800020;margin-bottom:0.8rem;">
 AI for Science
 </div>
 
-<div class="home-name" style="
-font-size:2rem;
-margin-bottom:1rem;
-line-height:1.05;
-">
+<div class="home-name" style="font-size:2rem;margin-bottom:1rem;line-height:1.05;">
 Protein Function Prediction
 </div>
 
@@ -355,28 +371,14 @@ Developing machine learning methods for protein function prediction under heavil
 <div class="home-links">
 <a href="https://arxiv.org/abs/2605.06879">🧬 Evo-PU</a>
 </div>
-
 </div>
 
-<!-- Research Card 4 -->
 <div class="home-card">
-
-<div style="
-font-size:0.78rem;
-font-weight:800;
-letter-spacing:0.18em;
-text-transform:uppercase;
-color:#800020;
-margin-bottom:0.8rem;
-">
+<div style="font-size:0.78rem;font-weight:800;letter-spacing:0.18em;text-transform:uppercase;color:#800020;margin-bottom:0.8rem;">
 AI for Science
 </div>
 
-<div class="home-name" style="
-font-size:2rem;
-margin-bottom:1rem;
-line-height:1.05;
-">
+<div class="home-name" style="font-size:2rem;margin-bottom:1rem;line-height:1.05;">
 Formulation Design
 </div>
 
@@ -387,7 +389,6 @@ Applying Bayesian optimization and machine learning to optimize protein formulat
 <div class="home-links">
 <a href="https://www.sciencedirect.com/science/article/pii/S0268005X25012561">🥛 Formulation Design</a>
 </div>
-
 </div>
 
 </div>
