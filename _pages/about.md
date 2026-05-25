@@ -12,8 +12,8 @@ redirect_from:
 /* Expand content area correctly */
 .page {
   max-width: none !important;
-  width: calc(100vw - 400px) !important;
-  margin-left: 350px !important;
+  width: calc(100vw - 520px) !important;
+  margin-left: 430px !important;
   padding-right: 2rem !important;
 }
 
@@ -157,7 +157,7 @@ redirect_from:
   text-decoration: underline;
 }
 
-@media (max-width: 1100px) {
+@media (max-width: 1300px) {
 
   .page {
     width: 100% !important;
