@@ -16,7 +16,7 @@ redirect_from:
 .page {
   max-width: none !important;
   width: auto !important;
-  margin-left: 320px !important;
+  margin-left: 260px !important;
   margin-right: 3rem !important;
   padding-right: 0 !important;
 }
@@ -187,7 +187,7 @@ redirect_from:
 
 @media (max-width: 1500px) {
   .page {
-    margin-left: 300px !important;
+    margin-left: 250px !important;
     margin-right: 2rem !important;
   }
 
