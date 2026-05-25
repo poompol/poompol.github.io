@@ -158,12 +158,13 @@ redirect_from:
   text-decoration: underline;
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1500px) {
   .page {
     width: auto !important;
     margin-left: 0 !important;
     margin-right: 0 !important;
-    padding-right: 0 !important;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
   }
 
   .home-top-grid {
