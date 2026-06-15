@@ -182,12 +182,20 @@ redirect_from:
 }
 
 /* =========================
+   Mobile profile image
+   ========================= */
+
+.mobile-profile-img {
+  display: none !important;
+}
+
+/* =========================
    Responsive fix
    ========================= */
 
 @media (max-width: 1500px) {
   .page {
-    margin-left: 250px !important;
+    margin-left: 320px !important;
     margin-right: 2rem !important;
   }
 
@@ -197,10 +205,8 @@ redirect_from:
 }
 
 @media (max-width: 1200px) {
-  /*
   .sidebar {
     display: none !important;
-    */
   }
 
   .page {
@@ -214,6 +220,15 @@ redirect_from:
 
   .home-top-grid {
     grid-template-columns: 1fr !important;
+  }
+
+  .mobile-profile-img {
+    display: block !important;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 0 auto 1.2rem auto;
   }
 }
 
