@@ -197,8 +197,10 @@ redirect_from:
 }
 
 @media (max-width: 1200px) {
+  /*
   .sidebar {
     display: none !important;
+    */
   }
 
   .page {
