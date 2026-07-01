@@ -112,16 +112,6 @@ redirect_from:
 
 <div class="talk-section-title">Upcoming talks</div>
 
-<div class="talk-date">June, 2026</div>
-
-<div class="talk-card">
-  <div class="talk-title">Better Protein Function Prediction by Modeling Survivorship Bias</div>
-  <div class="talk-type">Oral Presentation</div>
-  <div class="talk-venue">
-    <a href="https://ai4x.cc/">AI4X – Accelerate Conference 2026</a>, Singapore
-  </div>
-</div>
-
 <div class="talk-date">July - August, 2026</div>
 
 <div class="talk-card">
@@ -142,6 +132,19 @@ redirect_from:
 </div>
 
 <div class="talk-section-title">Past talks</div>
+
+<div class="talk-date">June, 2026</div>
+
+<div class="talk-card">
+  <div class="talk-title">Better Protein Function Prediction by Modeling Survivorship Bias</div>
+  <div class="talk-type">Oral Presentation</div>
+  <div class="talk-venue">
+    AI4X – Accelerate Conference 2026, Singapore
+  </div>
+  <div class="talk-links">
+    <a href="https://docs.google.com/presentation/d/1Dp0Lu6g8luyDaESlsxlZDQdfCx6X3gvEE2QHSocE2_I/edit?usp=sharing">📊 Slides</a>
+  </div>
+</div>
 
 <div class="talk-date">March, 2026</div>
 
