@@ -405,7 +405,7 @@ Applying Bayesian optimization and machine learning to optimize protein formulat
 </div>
 
 <div class="home-text" style="text-align:right; margin-top:0.5rem;">
-Last updated: <strong style="color:#800020;">May 21, 2026</strong>
+Last updated: <strong style="color:#800020;">July 1, 2026</strong>
 </div>
 
 </div>
