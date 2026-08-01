@@ -112,16 +112,6 @@ redirect_from:
 
 <div class="talk-section-title">Upcoming talks</div>
 
-<div class="talk-date">July - August, 2026</div>
-
-<div class="talk-card">
-  <div class="talk-title">Scalable Bayesian Optimization of Composite Functions for High-dimensional Digital Twin Calibration</div>
-  <div class="talk-type">Poster Presentation</div>
-  <div class="talk-venue">
-    <a href="https://isim2026.ise.ncsu.edu/">i-SIM Workshop 2026</a>, Raleigh, NC
-  </div>
-</div>
-
 <div class="talk-date">November, 2026</div>
 <div class="talk-card">
   <div class="talk-title">Evo-PU: Modeling Survivorship Bias with Positive-Unlabeled Learning for Protein Function Prediction</div>
@@ -132,6 +122,18 @@ redirect_from:
 </div>
 
 <div class="talk-section-title">Past talks</div>
+<div class="talk-date">July - August, 2026</div>
+
+<div class="talk-card">
+  <div class="talk-title">Scalable Bayesian Optimization of Composite Functions for High-dimensional Digital Twin Calibration</div>
+  <div class="talk-type">Poster Presentation</div>
+  <div class="talk-venue">
+    i-SIM Workshop 2026, NC State University, Raleigh, NC
+  </div>
+  <div class="talk-links">
+    <a href="https://drive.google.com/file/d/1Df6lnI6Tbfxpc4VqYN9Tp87GCmWeXtCo/view?usp=share_link">📊 Slides</a>
+  </div>
+</div>
 
 <div class="talk-date">June, 2026</div>
 
