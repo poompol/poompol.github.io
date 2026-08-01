@@ -131,7 +131,7 @@ redirect_from:
     i-SIM Workshop 2026, NC State University, Raleigh, NC
   </div>
   <div class="talk-links">
-    <a href="https://drive.google.com/file/d/1Df6lnI6Tbfxpc4VqYN9Tp87GCmWeXtCo/view?usp=share_link">📊 Slides</a>
+    <a href="https://drive.google.com/file/d/1Df6lnI6Tbfxpc4VqYN9Tp87GCmWeXtCo/view?usp=share_link">🖼️ Poster</a>
   </div>
 </div>
 
