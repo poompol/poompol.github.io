@@ -310,12 +310,6 @@ My research focuses on Bayesian optimization, machine learning, and their applic
 ✈️ Upcoming Travels
 </div>
 
-<div class="travel-date">July 31–August 3, 2026</div>
-<div class="travel-title">
-  <a href="https://isim2026.ise.ncsu.edu/">i-SIM Workshop</a>
-</div>
-<div class="travel-location">Raleigh, NC</div>
-
 <div class="travel-date">November 1–4, 2026</div>
 <div class="travel-title">
   <a href="https://meetings.informs.org/wordpress/annual/">INFORMS Annual Meeting</a>
