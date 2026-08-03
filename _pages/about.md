@@ -227,8 +227,11 @@ redirect_from:
     width: 150px;
     height: 150px;
     object-fit: cover;
+    object-position: center;
     border-radius: 50%;
-    margin: 0 auto 1.2rem auto;
+    border: 4px solid #ffffff;
+    box-shadow: 0 0 0 1px #d1d5db;
+    margin: 0 auto 1.5rem auto;
   }
 }
 
@@ -259,12 +262,18 @@ redirect_from:
 
 <div class="home-card">
 
+<img
+  src="{{ site.author.avatar | prepend: '/images/' | relative_url }}"
+  alt="{{ site.author.name }}"
+  class="mobile-profile-img"
+>
+
 <div class="home-name">
-Greetings,
+Hello!
 </div>
 
 <div class="home-role">
-สวัสดีครับ
+สวัสดีครับ (Sawasdee Krub) 🙏
 </div>
 
 <div class="home-text">
@@ -311,20 +320,27 @@ My research focuses on Bayesian optimization, machine learning, and their applic
 </div>
 
 <div class="travel-date">November 1–4, 2026</div>
+
 <div class="travel-title">
   <a href="https://meetings.informs.org/wordpress/annual/">INFORMS Annual Meeting</a>
 </div>
-<div class="travel-location">San Francisco, CA</div>
 
+<div class="travel-location">
+San Francisco, CA
 </div>
 
 </div>
 
-<div class="home-section-title">Research Highlights</div>
+</div>
+
+<div class="home-section-title">
+Research Highlights
+</div>
 
 <div class="research-grid">
 
 <div class="home-card">
+
 <div style="font-size:0.78rem;font-weight:800;letter-spacing:0.18em;text-transform:uppercase;color:#800020;margin-bottom:0.8rem;">
 Kernel Methods
 </div>
@@ -340,9 +356,11 @@ Developed kernel methods and Bayesian optimization techniques for optimization p
 <div class="home-links">
 <a href="https://arxiv.org/abs/1910.04086">🧩 Set-valued BO</a>
 </div>
+
 </div>
 
 <div class="home-card">
+
 <div style="font-size:0.78rem;font-weight:800;letter-spacing:0.18em;text-transform:uppercase;color:#800020;margin-bottom:0.8rem;">
 Grey-box Bayesian Optimization
 </div>
@@ -358,9 +376,11 @@ Developed Bayesian optimization methods that exploit internal objective-function
 <div class="home-links">
 <a href="https://proceedings.mlr.press/v235/buathong24a.html">🕸️ pKGFN</a>
 </div>
+
 </div>
 
 <div class="home-card">
+
 <div style="font-size:0.78rem;font-weight:800;letter-spacing:0.18em;text-transform:uppercase;color:#800020;margin-bottom:0.8rem;">
 AI for Science
 </div>
@@ -376,9 +396,11 @@ Developing machine learning methods for protein function prediction under heavil
 <div class="home-links">
 <a href="https://arxiv.org/abs/2605.06879">🧬 Evo-PU</a>
 </div>
+
 </div>
 
 <div class="home-card">
+
 <div style="font-size:0.78rem;font-weight:800;letter-spacing:0.18em;text-transform:uppercase;color:#800020;margin-bottom:0.8rem;">
 AI for Science
 </div>
@@ -394,6 +416,7 @@ Applying Bayesian optimization and machine learning to optimize protein formulat
 <div class="home-links">
 <a href="https://www.sciencedirect.com/science/article/pii/S0268005X25012561">🥛 Formulation Design</a>
 </div>
+
 </div>
 
 </div>
