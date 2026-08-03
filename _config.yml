@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Poompol (Paul) Buathong | PhD Candidate at Cornell University"
+title                    : "Poompol (Paul) Buathong | ภูมพล บัวทอง"
 title_separator          : "-"
 name                     : &name "Poompol (Paul) Buathong"
 description              : "Poompol (Paul) Buathong is a PhD candidate in Applied Mathematics at Cornell University, working on Bayesian optimization, machine learning, and AI for science."
