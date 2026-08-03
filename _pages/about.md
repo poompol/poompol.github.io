@@ -260,11 +260,11 @@ redirect_from:
 <div class="home-card">
 
 <div class="home-name">
-Poompol (Paul) Buathong
+Greetings,
 </div>
 
 <div class="home-role">
-Ph.D. Candidate in Applied Mathematics at Cornell University
+สวัสดีครับ
 </div>
 
 <div class="home-text">
