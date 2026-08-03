@@ -390,7 +390,7 @@ Protein Function Prediction
 </div>
 
 <div class="home-text">
-Developing machine learning methods for protein function prediction under heavily biased evolutionary and surveillance data using positive-unlabeled learning and evolutionary modeling.
+Developed machine learning methods for protein function prediction under heavily biased evolutionary and surveillance data using positive-unlabeled learning and evolutionary modeling.
 </div>
 
 <div class="home-links">
@@ -410,7 +410,7 @@ Formulation Design
 </div>
 
 <div class="home-text">
-Applying Bayesian optimization and machine learning to optimize protein formulation design for improved thermal stability and functionality in food systems.
+Applied Bayesian optimization and machine learning to optimize protein formulation design for improved thermal stability and functionality in food systems.
 </div>
 
 <div class="home-links">
