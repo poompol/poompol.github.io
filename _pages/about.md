@@ -134,29 +134,45 @@ redirect_from:
 }
 
 .home-notice {
-  background: #f8fafc;
-  border: 1px solid #e2e8f0;
-  border-left: 4px solid #800020;
+  background: linear-gradient(135deg, #fff5f7 0%, #fdf2f4 55%, #fff 100%);
+  border: 2px solid #800020;
   border-radius: 18px;
-  padding: 1.15rem 1.5rem;
-  margin-bottom: 1.4rem;
-  box-shadow: 0 2px 10px rgba(15, 23, 42, 0.04);
+  padding: 1.35rem 1.7rem;
+  margin-bottom: 1.5rem;
+  box-shadow:
+    0 4px 18px rgba(128, 0, 32, 0.12),
+    0 1px 0 rgba(255, 255, 255, 0.8) inset;
+  position: relative;
+  overflow: hidden;
+}
+
+.home-notice::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 8px;
+  height: 100%;
+  background: #800020;
 }
 
 .home-notice-label {
-  font-size: 0.78rem;
+  font-size: 1.35rem;
   font-weight: 800;
   color: #800020;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  margin-bottom: 0.4rem;
+  letter-spacing: -0.01em;
+  line-height: 1.25;
+  margin-bottom: 0.45rem;
+  padding-left: 0.35rem;
 }
 
 .home-notice-text {
-  color: #334155;
-  line-height: 1.7;
-  font-size: 1rem;
+  color: #3f3f46;
+  line-height: 1.65;
+  font-size: 1.05rem;
+  font-weight: 500;
   margin: 0;
+  padding-left: 0.35rem;
 }
 
 /* =========================
@@ -285,9 +301,9 @@ redirect_from:
 <div class="home-intro">
 
 <div class="home-notice">
-  <div class="home-notice-label">On the Job Market</div>
+  <div class="home-notice-label">On the job market</div>
   <p class="home-notice-text">
-    On the job market for ML for Science postdoc positions · Graduating Spring/Summer 2027.
+    Seeking for ML for Science postdoc position, starting in Summer / Fall 2027.
   </p>
 </div>
 
