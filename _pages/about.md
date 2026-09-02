@@ -303,7 +303,7 @@ redirect_from:
 <div class="home-notice">
   <div class="home-notice-label">On the job market !</div>
   <p class="home-notice-text">
-    Seeking for ML for Science postdoc position, starting in Summer / Fall 2027.
+    Seeking an ML for Science postdoc position, starting in Summer / Fall 2027.
   </p>
 </div>
 
