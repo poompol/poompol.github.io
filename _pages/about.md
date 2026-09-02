@@ -133,6 +133,32 @@ redirect_from:
   color: #111827;
 }
 
+.home-notice {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-left: 4px solid #800020;
+  border-radius: 18px;
+  padding: 1.15rem 1.5rem;
+  margin-bottom: 1.4rem;
+  box-shadow: 0 2px 10px rgba(15, 23, 42, 0.04);
+}
+
+.home-notice-label {
+  font-size: 0.78rem;
+  font-weight: 800;
+  color: #800020;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 0.4rem;
+}
+
+.home-notice-text {
+  color: #334155;
+  line-height: 1.7;
+  font-size: 1rem;
+  margin: 0;
+}
+
 /* =========================
    Travels
    ========================= */
@@ -257,6 +283,13 @@ redirect_from:
 </style>
 
 <div class="home-intro">
+
+<div class="home-notice">
+  <div class="home-notice-label">On the Job Market</div>
+  <p class="home-notice-text">
+    On the job market for ML for Science postdoc positions · Graduating Spring/Summer 2027.
+  </p>
+</div>
 
 <div class="home-top-grid">
 
