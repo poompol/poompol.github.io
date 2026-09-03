@@ -391,39 +391,19 @@ Research Highlights
 <div class="home-card">
 
 <div style="font-size:0.78rem;font-weight:800;letter-spacing:0.18em;text-transform:uppercase;color:#800020;margin-bottom:0.8rem;">
-Kernel Methods
+AI for Science
 </div>
 
 <div class="home-name" style="font-size:2rem;margin-bottom:1rem;line-height:1.05;">
-Set-valued Input Functions
+Materials Characterization
 </div>
 
 <div class="home-text">
-Developed kernel methods and Bayesian optimization techniques for optimization problems where the inputs are sets rather than fixed-dimensional vectors, enabling black-box optimization over combinatorial and structured domains.
+Developed scalable Bayesian optimization of composite functions for image-based inverse problems, estimating specimen thickness and mistilt from electron microscopy patterns to improve downstream ptychography reconstruction with far fewer expensive simulations.
 </div>
 
 <div class="home-links">
-<a href="https://arxiv.org/abs/1910.04086">🧩 Set-valued BO</a>
-</div>
-
-</div>
-
-<div class="home-card">
-
-<div style="font-size:0.78rem;font-weight:800;letter-spacing:0.18em;text-transform:uppercase;color:#800020;margin-bottom:0.8rem;">
-Grey-box Bayesian Optimization
-</div>
-
-<div class="home-name" style="font-size:2rem;margin-bottom:1rem;line-height:1.05;">
-Function Networks & Partial Evaluations
-</div>
-
-<div class="home-text">
-Developed Bayesian optimization methods that exploit internal objective-function structure and partial evaluations, substantially improving sample efficiency for expensive scientific optimization problems.
-</div>
-
-<div class="home-links">
-<a href="https://proceedings.mlr.press/v235/buathong24a.html">🕸️ pKGFN</a>
+<a href="https://arxiv.org/abs/2609.02126">🔬 SBOCF</a>
 </div>
 
 </div>
@@ -468,10 +448,50 @@ Applied Bayesian optimization and machine learning to optimize protein formulati
 
 </div>
 
+<div class="home-card">
+
+<div style="font-size:0.78rem;font-weight:800;letter-spacing:0.18em;text-transform:uppercase;color:#800020;margin-bottom:0.8rem;">
+Grey-box Bayesian Optimization
+</div>
+
+<div class="home-name" style="font-size:2rem;margin-bottom:1rem;line-height:1.05;">
+Function Networks & Partial Evaluations
+</div>
+
+<div class="home-text">
+Developed Bayesian optimization methods that exploit internal objective-function structure and partial evaluations, substantially improving sample efficiency for expensive scientific optimization problems.
+</div>
+
+<div class="home-links">
+<a href="https://proceedings.mlr.press/v235/buathong24a.html">🕸️ pKGFN</a>
+</div>
+
+</div>
+
+<div class="home-card">
+
+<div style="font-size:0.78rem;font-weight:800;letter-spacing:0.18em;text-transform:uppercase;color:#800020;margin-bottom:0.8rem;">
+Kernel Methods
+</div>
+
+<div class="home-name" style="font-size:2rem;margin-bottom:1rem;line-height:1.05;">
+Set-valued Input Functions
+</div>
+
+<div class="home-text">
+Developed kernel methods and Bayesian optimization techniques for optimization problems where the inputs are sets rather than fixed-dimensional vectors, enabling black-box optimization over combinatorial and structured domains.
+</div>
+
+<div class="home-links">
+<a href="https://arxiv.org/abs/1910.04086">🧩 Set-valued BO</a>
+</div>
+
+</div>
+
 </div>
 
 <div class="home-text" style="text-align:right; margin-top:0.5rem;">
-Last updated: <strong style="color:#800020;">August 3, 2026</strong>
+Last updated: <strong style="color:#800020;">September 2, 2026</strong>
 </div>
 
 </div>

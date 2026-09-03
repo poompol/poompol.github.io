@@ -115,6 +115,26 @@ redirect_from:
 <div class="pub-card">
 
 <div class="pub-authors">
+Yoon, D.*, <span class="pub-me">Buathong, P.</span>*, Lee, C.-H., Zhang, Y., Muller, D. A. & Frazier, P. I. (2026).
+</div>
+
+<div class="pub-title">
+Scalable Bayesian Optimization of Composite Functions for Image-Based Inverse Problems in Materials Characterization.
+</div>
+
+<div class="pub-venue">
+<em>arXiv preprint</em> arXiv:2609.02126.
+</div>
+
+<div class="pub-links">
+<a href="https://arxiv.org/abs/2609.02126">📄 Preprint</a>
+</div>
+
+</div>
+
+<div class="pub-card">
+
+<div class="pub-authors">
 Chao, Z.*, <span class="pub-me">Buathong, P.</span>*, Selivanovitch, E., Daniel, S. & Frazier, P. I. (2026).
 </div>
 
