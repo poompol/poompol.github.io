@@ -116,9 +116,9 @@ redirect_from:
 
 <div class="cv-card">
   <div class="cv-title">Curriculum Vitae</div>
-  <div class="cv-detail">Last updated: <strong style="color:#800020;">March, 2026</strong></div>
+  <div class="cv-detail">Last updated: <strong style="color:#800020;">September, 2026</strong></div>
   <div class="cv-links">
-    <a href="https://drive.google.com/file/d/165n3bHsvXhGUZ3SH27uXohJ4_9RiZ7G8/view?usp=sharing">📄 Download CV</a>
+    <a href="https://drive.google.com/file/d/1v8ahwhJZNOE8YYerNoRdxl_OnMssvLl9/view?usp=share_link">📄 Download CV</a>
   </div>
 </div>
 
