@@ -123,11 +123,27 @@ Scalable Bayesian Optimization of Composite Functions for Image-Based Inverse Pr
 </div>
 
 <div class="pub-venue">
-<em>arXiv preprint</em> arXiv:2609.02126.
+<em>arXiv preprint</em> arXiv:2609.02126. Accepted @ AI4Mat Workshop @ NeurIPS 2026.
 </div>
 
 <div class="pub-links">
 <a href="https://arxiv.org/abs/2609.02126">📄 Preprint</a>
+</div>
+
+</div>
+
+<div class="pub-card">
+
+<div class="pub-authors">
+Ye, R., Goli, S.*, Ali, M.*, <span class="pub-me">Buathong, P.</span> & Frazier, P. I. (2026).
+</div>
+
+<div class="pub-title">
+Investigating Composite Modeling in Multi-Objective Bayesian Optimization for Scientific Design.
+</div>
+
+<div class="pub-venue">
+Accepted @ AI4Mat Workshop @ NeurIPS 2026.
 </div>
 
 </div>
