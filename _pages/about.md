@@ -471,27 +471,6 @@ Recent News
   </p>
 </div>
 
-<div class="news-item">
-  <div class="news-date">[May 2025]</div>
-  <p class="news-text">
-    Our paper on fast Bayesian optimization of function networks with partial evaluations was accepted to the <a href="https://proceedings.mlr.press/v293/buathong25a.html">AutoML 2025 Methods Track</a>.
-  </p>
-</div>
-
-<div class="news-item">
-  <div class="news-date">[July 2024]</div>
-  <p class="news-text">
-    Passed my A-Exam (candidacy exam) — officially a Ph.D. candidate!
-  </p>
-</div>
-
-<div class="news-item">
-  <div class="news-date">[May 2024]</div>
-  <p class="news-text">
-    Our paper on Bayesian optimization of function networks with partial evaluations was accepted to <a href="https://proceedings.mlr.press/v235/buathong24a.html">ICML 2024</a>. See you in Vienna this July!
-  </p>
-</div>
-
 </div>
 
 <div class="home-section-title">
