@@ -112,6 +112,24 @@ redirect_from:
 
 <div class="talk-section-title">Upcoming talks</div>
 
+<div class="talk-date">December, 2026</div>
+
+<div class="talk-card">
+  <div class="talk-title">Scalable Bayesian Optimization of Composite Functions for Image-Based Inverse Problems in Materials Characterization</div>
+  <div class="talk-type">Poster Presentation</div>
+  <div class="talk-venue">
+    <a href="https://neurips.cc/Conferences/2026">AI4Mat Workshop @ NeurIPS 2026</a>, Sydney, Australia
+  </div>
+</div>
+
+<div class="talk-card">
+  <div class="talk-title">Investigating Composite Modeling in Multi-Objective Bayesian Optimization for Scientific Design</div>
+  <div class="talk-type">Poster Presentation</div>
+  <div class="talk-venue">
+    <a href="https://neurips.cc/Conferences/2026">AI4Mat Workshop @ NeurIPS 2026</a>, Sydney, Australia
+  </div>
+</div>
+
 <div class="talk-date">November, 2026</div>
 <div class="talk-card">
   <div class="talk-title">Evo-PU: Modeling Survivorship Bias with Positive-Unlabeled Learning for Protein Function Prediction</div>

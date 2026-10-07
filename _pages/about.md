@@ -213,6 +213,51 @@ redirect_from:
 }
 
 /* =========================
+   Recent news
+   ========================= */
+
+.news-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.95rem;
+  margin-bottom: 0.5rem;
+}
+
+.news-item {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  padding: 1.1rem 1.35rem;
+  box-shadow: 0 2px 10px rgba(15, 23, 42, 0.05);
+}
+
+.news-date {
+  font-size: 0.78rem;
+  font-weight: 800;
+  color: #800020;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 0.35rem;
+}
+
+.news-text {
+  color: #475569;
+  line-height: 1.7;
+  font-size: 1rem;
+  margin: 0;
+}
+
+.news-text a {
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.news-text a:hover {
+  text-decoration: underline;
+}
+
+/* =========================
    Research grid
    ========================= */
 
@@ -378,6 +423,73 @@ My research focuses on Bayesian optimization, machine learning, and their applic
 San Francisco, CA
 </div>
 
+<div class="travel-date">December 6–12, 2026</div>
+
+<div class="travel-title">
+  <a href="https://neurips.cc/Conferences/2026">NeurIPS 2026</a>
+</div>
+
+<div class="travel-location">
+Sydney, Australia — attending the main conference and the AI4Mat workshop
+</div>
+
+</div>
+
+</div>
+
+<div class="home-section-title">
+Recent News
+</div>
+
+<div class="news-list">
+
+<div class="news-item">
+  <div class="news-date">[September 2026]</div>
+  <p class="news-text">
+    My two papers got accepted to the <a href="/publications/">AI4Mat workshop</a> at NeurIPS 2026. See you in Sydney this December!
+  </p>
+</div>
+
+<div class="news-item">
+  <div class="news-date">[September 2026]</div>
+  <p class="news-text">
+    Our <a href="https://arxiv.org/abs/2609.02126">SBOCF preprint</a> on scalable Bayesian optimization for image-based inverse problems in materials characterization is now on arXiv.
+  </p>
+</div>
+
+<div class="news-item">
+  <div class="news-date">[May 2026]</div>
+  <p class="news-text">
+    Our <a href="https://arxiv.org/abs/2605.06879">Evo-PU preprint</a> on modeling survivorship bias for better protein function prediction is now available.
+  </p>
+</div>
+
+<div class="news-item">
+  <div class="news-date">[November 2025]</div>
+  <p class="news-text">
+    Our work on Bayesian optimization for phytase formulation design was accepted at <a href="https://www.sciencedirect.com/science/article/pii/S0268005X25012561">Food Hydrocolloids</a> — check it out!
+  </p>
+</div>
+
+<div class="news-item">
+  <div class="news-date">[May 2025]</div>
+  <p class="news-text">
+    Our paper on fast Bayesian optimization of function networks with partial evaluations was accepted to the <a href="https://proceedings.mlr.press/v293/buathong25a.html">AutoML 2025 Methods Track</a>.
+  </p>
+</div>
+
+<div class="news-item">
+  <div class="news-date">[July 2024]</div>
+  <p class="news-text">
+    Passed my A-Exam (candidacy exam) — officially a Ph.D. candidate!
+  </p>
+</div>
+
+<div class="news-item">
+  <div class="news-date">[May 2024]</div>
+  <p class="news-text">
+    Our paper on Bayesian optimization of function networks with partial evaluations was accepted to <a href="https://proceedings.mlr.press/v235/buathong24a.html">ICML 2024</a>. See you in Vienna this July!
+  </p>
 </div>
 
 </div>
@@ -491,7 +603,7 @@ Developed kernel methods and Bayesian optimization techniques for optimization p
 </div>
 
 <div class="home-text" style="text-align:right; margin-top:0.5rem;">
-Last updated: <strong style="color:#800020;">September 2, 2026</strong>
+Last updated: <strong style="color:#800020;">October 7, 2026</strong>
 </div>
 
 </div>
