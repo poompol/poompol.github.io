@@ -460,7 +460,7 @@ Recent News
 <div class="news-item">
   <div class="news-date">[May 2026]</div>
   <p class="news-text">
-    Our <a href="https://arxiv.org/abs/2605.06879">Evo-PU preprint</a> on modeling survivorship bias for better protein function prediction is now available.
+    Our <a href="https://arxiv.org/abs/2605.06879v2">PULSE preprint</a> on modeling survivorship bias for better protein function prediction is now available.
   </p>
 </div>
 
@@ -514,7 +514,7 @@ Developed machine learning methods for protein function prediction under heavily
 </div>
 
 <div class="home-links">
-<a href="https://arxiv.org/abs/2605.06879">🧬 Evo-PU</a>
+<a href="https://arxiv.org/abs/2605.06879v2">🧬 PULSE</a>
 </div>
 
 </div>

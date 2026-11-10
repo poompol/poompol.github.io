@@ -159,11 +159,12 @@ Better Protein Function Prediction by Modeling Survivorship Bias.
 </div>
 
 <div class="pub-venue">
-<em>arXiv preprint</em> arXiv:2605.06879.
+<em>arXiv preprint</em> arXiv:2605.06879v2.
 </div>
 
 <div class="pub-links">
-<a href="https://arxiv.org/abs/2605.06879">📄 Preprint</a>
+<a href="https://arxiv.org/abs/2605.06879v2">📄 Preprint</a>
+<a href="https://github.com/zhongmouchao/PULSE">💻 GitHub</a>
 </div>
 
 </div>
