@@ -135,7 +135,7 @@ Scalable Bayesian Optimization of Composite Functions for Image-Based Inverse Pr
 <div class="pub-card">
 
 <div class="pub-authors">
-Ye, R., Goli, S.*, Ali, M.*, <span class="pub-me">Buathong, P.</span> & Frazier, P. I. (2026).
+Ye, R.*, Goli, S.*, Ali, M.*, <span class="pub-me">Buathong, P.</span> & Frazier, P. I. (2026).
 </div>
 
 <div class="pub-title">
