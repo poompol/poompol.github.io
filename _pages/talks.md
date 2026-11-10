@@ -132,10 +132,13 @@ redirect_from:
 
 <div class="talk-date">November, 2026</div>
 <div class="talk-card">
-  <div class="talk-title">Evo-PU: Modeling Survivorship Bias with Positive-Unlabeled Learning for Protein Function Prediction</div>
+  <div class="talk-title">PULSE: Modeling Survivorship Bias with Positive-Unlabeled Learning for Protein Function Prediction</div>
   <div class="talk-type">Oral Presentation</div>
   <div class="talk-venue">
     <a href="https://meetings.informs.org/wordpress/annual/">INFORMS Annual Meeting 2026</a>, San Francisco, CA
+  </div>
+  <div class="talk-links">
+    <a href="https://drive.google.com/file/d/1w9pizYI6UoDuIsAae6kN9CWHW4_BxUc5/view?usp=sharing">📊 Slides</a>
   </div>
 </div>
 
