@@ -175,6 +175,16 @@ redirect_from:
   padding-left: 0.35rem;
 }
 
+.home-notice-text a {
+  color: #2563eb;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.home-notice-text a:hover {
+  text-decoration: underline;
+}
+
 /* =========================
    Travels
    ========================= */
@@ -348,8 +358,11 @@ redirect_from:
 <div class="home-notice">
   <div class="home-notice-label">On the job market!</div>
   <p class="home-notice-text">
-    Seeking an ML for Science postdoc position, starting in Summer / Fall 2027.
+    Seeking an AI/ML for Science postdoc position, starting in Summer / Fall 2027. Here is my <a href="https://drive.google.com/file/d/1u1NpkIptZrqMF3vi0KtcXyNa0nXHukwS/view?usp=sharing">résumé</a>! Feel free to reach out — I'm happy to chat.
   </p>
+  <div class="home-links" style="margin-top:0.9rem;padding-left:0.35rem;">
+    <a href="https://drive.google.com/file/d/1u1NpkIptZrqMF3vi0KtcXyNa0nXHukwS/view?usp=sharing">📄 Résumé</a>
+  </div>
 </div>
 
 <div class="home-top-grid">
@@ -589,7 +602,7 @@ Developed kernel methods and Bayesian optimization techniques for optimization p
 </div>
 
 <div class="home-text" style="text-align:right; margin-top:0.5rem;">
-Last updated: <strong style="color:#800020;">October 7, 2026</strong>
+Last updated: <strong style="color:#800020;">November 11, 2026</strong>
 </div>
 
 </div>
