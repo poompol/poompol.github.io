@@ -423,16 +423,6 @@ My research focuses on Bayesian optimization, machine learning, and their applic
 ✈️ Upcoming Travels
 </div>
 
-<div class="travel-date">November 1–4, 2026</div>
-
-<div class="travel-title">
-  <a href="https://meetings.informs.org/wordpress/annual/">INFORMS Annual Meeting</a>
-</div>
-
-<div class="travel-location">
-San Francisco, CA
-</div>
-
 <div class="travel-date">December 6–12, 2026</div>
 
 <div class="travel-title">
