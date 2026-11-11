@@ -444,6 +444,13 @@ Recent News
 <div class="news-list">
 
 <div class="news-item">
+  <div class="news-date">[November 2026]</div>
+  <p class="news-text">
+    Our <a href="https://arxiv.org/abs/2611.13565">preprint</a> on investigating composite modeling in multi-objective Bayesian optimization for scientific design is now on arXiv.
+  </p>
+</div>
+
+<div class="news-item">
   <div class="news-date">[September 2026]</div>
   <p class="news-text">
     My two papers got accepted to the <a href="/publications/">AI4Mat workshop</a> at NeurIPS 2026. See you in Sydney this December!
@@ -453,7 +460,7 @@ Recent News
 <div class="news-item">
   <div class="news-date">[September 2026]</div>
   <p class="news-text">
-    Our <a href="https://arxiv.org/abs/2609.02126">SBOCF preprint</a> on scalable Bayesian optimization for image-based inverse problems in materials characterization is now on arXiv.
+    Our <a href="https://arxiv.org/abs/2609.02126v2">SBOCF preprint</a> on scalable Bayesian optimization for image-based inverse problems in materials characterization is now on arXiv.
   </p>
 </div>
 
@@ -494,7 +501,7 @@ Developed scalable Bayesian optimization of composite functions for image-based 
 </div>
 
 <div class="home-links">
-<a href="https://arxiv.org/abs/2609.02126">🔬 SBOCF</a>
+<a href="https://arxiv.org/abs/2609.02126v2">🔬 SBOCF</a>
 </div>
 
 </div>

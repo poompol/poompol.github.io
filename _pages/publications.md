@@ -123,11 +123,11 @@ Scalable Bayesian Optimization of Composite Functions for Image-Based Inverse Pr
 </div>
 
 <div class="pub-venue">
-<em>arXiv preprint</em> arXiv:2609.02126. Accepted @ AI4Mat Workshop @ NeurIPS 2026.
+<em>arXiv preprint</em> arXiv:2609.02126v2. Accepted @ AI4Mat Workshop @ NeurIPS 2026.
 </div>
 
 <div class="pub-links">
-<a href="https://arxiv.org/abs/2609.02126">📄 Preprint</a>
+<a href="https://arxiv.org/abs/2609.02126v2">📄 Preprint</a>
 </div>
 
 </div>
@@ -143,7 +143,11 @@ Investigating Composite Modeling in Multi-Objective Bayesian Optimization for Sc
 </div>
 
 <div class="pub-venue">
-Accepted @ AI4Mat Workshop @ NeurIPS 2026.
+<em>arXiv preprint</em> arXiv:2611.13565. Accepted @ AI4Mat Workshop @ NeurIPS 2026.
+</div>
+
+<div class="pub-links">
+<a href="https://arxiv.org/abs/2611.13565">📄 Preprint</a>
 </div>
 
 </div>
