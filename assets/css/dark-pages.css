@@ -1,0 +1,133 @@
+/* Custom home, CV, publications, and talks styles are light-only.
+   These overrides keep the same layout once the theme toggle is dark. */
+
+html[data-theme="dark"] {
+  --global-link-color-hover: #7ad4ea;
+  --global-code-background-color: #2f2f2f;
+  --global-code-text-color: #f4f4f5;
+}
+
+html[data-theme="dark"] .home-card,
+html[data-theme="dark"] .news-item,
+html[data-theme="dark"] .cv-card,
+html[data-theme="dark"] .pub-card,
+html[data-theme="dark"] .talk-card {
+  background: #3d3d3d;
+  border-color: #5e5e5e;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.28);
+}
+
+html[data-theme="dark"] .home-card:hover,
+html[data-theme="dark"] .cv-card:hover,
+html[data-theme="dark"] .pub-card:hover,
+html[data-theme="dark"] .talk-card:hover {
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.42);
+}
+
+html[data-theme="dark"] .home-name,
+html[data-theme="dark"] .home-section-title,
+html[data-theme="dark"] .travel-title,
+html[data-theme="dark"] .travel-title a,
+html[data-theme="dark"] .cv-section-title,
+html[data-theme="dark"] .cv-title,
+html[data-theme="dark"] .talk-section-title,
+html[data-theme="dark"] .talk-title,
+html[data-theme="dark"] .pub-title,
+html[data-theme="dark"] .pub-me {
+  color: #f4f4f5;
+}
+
+html[data-theme="dark"] .home-role,
+html[data-theme="dark"] .home-text,
+html[data-theme="dark"] .news-text,
+html[data-theme="dark"] .cv-subtitle,
+html[data-theme="dark"] .talk-type,
+html[data-theme="dark"] .pub-authors {
+  color: #d4d4d8;
+}
+
+html[data-theme="dark"] .travel-location,
+html[data-theme="dark"] .cv-detail,
+html[data-theme="dark"] .talk-venue,
+html[data-theme="dark"] .pub-venue,
+html[data-theme="dark"] .pub-note {
+  color: #b4b4bb;
+}
+
+html[data-theme="dark"] .cv-detail strong {
+  color: #f4f4f5;
+}
+
+html[data-theme="dark"] .home-text a,
+html[data-theme="dark"] .news-text a,
+html[data-theme="dark"] .cv-detail a,
+html[data-theme="dark"] .talk-venue a,
+html[data-theme="dark"] .home-notice-text a {
+  color: #93c5fd;
+}
+
+html[data-theme="dark"] .home-links a,
+html[data-theme="dark"] .cv-links a,
+html[data-theme="dark"] .pub-links a,
+html[data-theme="dark"] .talk-links a {
+  background: #2c2c2c;
+  border-color: #3d5f8f;
+  color: #93c5fd;
+}
+
+html[data-theme="dark"] .home-links a:hover,
+html[data-theme="dark"] .cv-links a:hover,
+html[data-theme="dark"] .pub-links a:hover,
+html[data-theme="dark"] .talk-links a:hover {
+  background: #243044;
+  border-color: #60a5fa;
+  color: #dbeafe;
+}
+
+html[data-theme="dark"] .cv-date,
+html[data-theme="dark"] .talk-date,
+html[data-theme="dark"] .pub-year,
+html[data-theme="dark"] .travel-date,
+html[data-theme="dark"] .news-date,
+html[data-theme="dark"] .home-notice-label,
+html[data-theme="dark"] [style*="800020"] {
+  color: #f3b4c4 !important;
+}
+
+html[data-theme="dark"] .cv-date::after,
+html[data-theme="dark"] .talk-date::after,
+html[data-theme="dark"] .pub-year::after {
+  background: #6b6b6b;
+}
+
+html[data-theme="dark"] .home-notice {
+  background: linear-gradient(135deg, #3d242b 0%, #2e1e24 55%, #2a2a2a 100%);
+  border-color: #c45c74;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.35);
+}
+
+html[data-theme="dark"] .home-notice::before {
+  background: #e07a93;
+}
+
+html[data-theme="dark"] .home-notice-text {
+  color: #f6ecee;
+}
+
+html[data-theme="dark"] .travel-title a:hover {
+  color: #93c5fd;
+}
+
+html[data-theme="dark"] .mobile-profile-img {
+  border-color: #5c5c5c;
+  box-shadow: 0 0 0 1px #6b6b6b;
+}
+
+html[data-theme="dark"] .author__urls:after {
+  border-color: var(--global-bg-color) transparent;
+}
+
+html[data-theme="dark"] .toc {
+  background-color: #3d3d3d;
+  color: #f4f4f5;
+}

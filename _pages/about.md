@@ -360,9 +360,6 @@ redirect_from:
   <p class="home-notice-text">
     Seeking an AI/ML for Science postdoc position, starting in Summer / Fall 2027. Here is my <a href="https://drive.google.com/file/d/1u1NpkIptZrqMF3vi0KtcXyNa0nXHukwS/view?usp=sharing">résumé</a>! Feel free to reach out — I'm happy to chat.
   </p>
-  <div class="home-links" style="margin-top:0.9rem;padding-left:0.35rem;">
-    <a href="https://drive.google.com/file/d/1u1NpkIptZrqMF3vi0KtcXyNa0nXHukwS/view?usp=sharing">📄 Résumé</a>
-  </div>
 </div>
 
 <div class="home-top-grid">

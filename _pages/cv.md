@@ -155,23 +155,7 @@ redirect_from:
 
 <div class="cv-section-title">Research and teaching experience</div>
 
-<div class="cv-date">May – August, 2026</div>
-
-<div class="cv-card">
-  <div class="cv-title">Graduate Research Assistant</div>
-  <div class="cv-subtitle">School of Operations Research and Information Engineering (ORIE), Cornell University, USA</div>
-  <div class="cv-detail">Supervisor: <a href="https://people.orie.cornell.edu/pfrazier/">Prof. Peter Frazier</a></div>
-</div>
-
-<div class="cv-date">May – August, 2025</div>
-
-<div class="cv-card">
-  <div class="cv-title">Graduate Research Assistant</div>
-  <div class="cv-subtitle">School of Operations Research and Information Engineering (ORIE), Cornell University, USA</div>
-  <div class="cv-detail">Supervisor: <a href="https://people.orie.cornell.edu/pfrazier/">Prof. Peter Frazier</a></div>
-</div>
-
-<div class="cv-date">May – August, 2024</div>
+<div class="cv-date">May – August, 2024, 2025, and 2026</div>
 
 <div class="cv-card">
   <div class="cv-title">Graduate Research Assistant</div>
@@ -207,7 +191,7 @@ redirect_from:
 
 <div class="cv-section-title">Research mentoring</div>
 
-<div class="cv-date">Summer 2026</div>
+<div class="cv-date">Summer and Fall 2026</div>
 
 <div class="cv-card">
   <div class="cv-title">Summer Undergraduate Research Program (AI-MI)</div>
