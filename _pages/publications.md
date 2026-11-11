@@ -128,6 +128,7 @@ Scalable Bayesian Optimization of Composite Functions for Image-Based Inverse Pr
 
 <div class="pub-links">
 <a href="https://arxiv.org/abs/2609.02126v2">📄 Preprint</a>
+<a href="https://github.com/dasol-yoon/bott">💻 GitHub</a>
 </div>
 
 </div>
