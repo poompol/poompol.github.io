@@ -687,7 +687,7 @@ Developed kernel methods and Bayesian optimization techniques for optimization p
 </div>
 
 <div class="home-text" style="text-align:right; margin-top:0.5rem;">
-Last updated: <strong style="color:#800020;">November 11, 2026</strong>
+Last updated: <strong style="color:#800020;">November 23, 2026</strong>
 </div>
 
 </div>
