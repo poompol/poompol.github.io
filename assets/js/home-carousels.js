@@ -94,7 +94,7 @@
       stop();
       timer = setInterval(function () {
         go(index + 1);
-      }, 4000);
+      }, 3000);
     }
 
     function restart() {
