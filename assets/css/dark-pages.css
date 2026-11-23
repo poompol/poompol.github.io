@@ -127,7 +127,21 @@ html[data-theme="dark"] .author__urls:after {
   border-color: var(--global-bg-color) transparent;
 }
 
-html[data-theme="dark"] .toc {
-  background-color: #3d3d3d;
-  color: #f4f4f5;
+html[data-theme="dark"] .home-carousel-btn {
+  background: #2c2c2c;
+  border-color: #5e5e5e;
+  color: #f3b4c4;
+}
+
+html[data-theme="dark"] .home-carousel-btn:hover {
+  background: #3d242b;
+  border-color: #e07a93;
+}
+
+html[data-theme="dark"] .home-carousel-dot {
+  background: #6b6b6b;
+}
+
+html[data-theme="dark"] .home-carousel-dot.is-active {
+  background: #f3b4c4;
 }

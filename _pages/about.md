@@ -223,14 +223,89 @@ redirect_from:
 }
 
 /* =========================
-   Recent news
+   Carousels (news and research)
    ========================= */
 
-.news-list {
+.home-carousel {
+  margin-bottom: 0.4rem;
+}
+
+.home-carousel-viewport {
+  overflow: hidden;
+}
+
+.home-carousel-track {
   display: flex;
-  flex-direction: column;
-  gap: 0.95rem;
-  margin-bottom: 0.5rem;
+  align-items: stretch;
+  transition: transform 0.45s ease;
+}
+
+.home-carousel-track > .news-item,
+.home-carousel-track > .home-card {
+  flex: 0 0 100%;
+  width: 100%;
+  margin-bottom: 0;
+  box-sizing: border-box;
+}
+
+.home-carousel .home-card:hover {
+  transform: none;
+}
+
+.home-carousel-controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.8rem;
+  margin-top: 0.95rem;
+}
+
+.home-carousel-btn {
+  width: 2.25rem;
+  height: 2.25rem;
+  border-radius: 999px;
+  border: 1px solid #e5e7eb;
+  background: #ffffff;
+  color: #800020;
+  font-size: 1.4rem;
+  line-height: 1;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+
+.home-carousel-btn:hover {
+  background: #fff5f7;
+  border-color: #800020;
+}
+
+.home-carousel-dots {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.home-carousel-dot {
+  width: 0.55rem;
+  height: 0.55rem;
+  padding: 0;
+  border: 0;
+  border-radius: 999px;
+  background: #d1d5db;
+  cursor: pointer;
+}
+
+.home-carousel-dot.is-active {
+  width: 1.35rem;
+  background: #800020;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .home-carousel-track {
+    transition: none;
+  }
 }
 
 .news-item {
@@ -271,12 +346,6 @@ redirect_from:
    Research grid
    ========================= */
 
-.research-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1.4rem;
-  margin-top: 1.2rem;
-}
 
 /* =========================
    Mobile profile image
@@ -441,7 +510,9 @@ Sydney, Australia — attending the main conference and the AI4Mat workshop
 Recent News
 </div>
 
-<div class="news-list">
+<div class="home-carousel" data-carousel aria-roledescription="carousel" aria-label="Recent news" tabindex="0">
+<div class="home-carousel-viewport">
+<div class="home-carousel-track">
 
 <div class="news-item">
   <div class="news-date">[November 2026]</div>
@@ -479,12 +550,21 @@ Recent News
 </div>
 
 </div>
+</div>
+<div class="home-carousel-controls">
+  <button type="button" class="home-carousel-btn" data-carousel-prev aria-label="Previous news">‹</button>
+  <div class="home-carousel-dots" data-carousel-dots></div>
+  <button type="button" class="home-carousel-btn" data-carousel-next aria-label="Next news">›</button>
+</div>
+</div>
 
 <div class="home-section-title">
 Research Highlights
 </div>
 
-<div class="research-grid">
+<div class="home-carousel" data-carousel aria-roledescription="carousel" aria-label="Research highlights" tabindex="0">
+<div class="home-carousel-viewport">
+<div class="home-carousel-track">
 
 <div class="home-card">
 
@@ -587,9 +667,18 @@ Developed kernel methods and Bayesian optimization techniques for optimization p
 </div>
 
 </div>
+</div>
+<div class="home-carousel-controls">
+  <button type="button" class="home-carousel-btn" data-carousel-prev aria-label="Previous highlight">‹</button>
+  <div class="home-carousel-dots" data-carousel-dots></div>
+  <button type="button" class="home-carousel-btn" data-carousel-next aria-label="Next highlight">›</button>
+</div>
+</div>
 
 <div class="home-text" style="text-align:right; margin-top:0.5rem;">
 Last updated: <strong style="color:#800020;">November 11, 2026</strong>
 </div>
 
 </div>
+
+<script src="{{ '/assets/js/home-carousels.js' | relative_url }}"></script>
