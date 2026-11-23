@@ -39,6 +39,9 @@ redirect_from:
 .home-intro {
   margin-top: 0.5rem;
   margin-bottom: 2rem;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  min-width: 0;
 }
 
 .home-top-grid {
@@ -228,15 +231,21 @@ redirect_from:
 
 .home-carousel {
   margin-bottom: 0.4rem;
+  min-width: 0;
+  max-width: 100%;
 }
 
 .home-carousel-viewport {
   overflow: hidden;
+  min-width: 0;
+  max-width: 100%;
 }
 
 .home-carousel-track {
   display: flex;
   align-items: stretch;
+  width: 100%;
+  min-width: 0;
   transition: transform 0.45s ease;
 }
 
@@ -244,6 +253,8 @@ redirect_from:
 .home-carousel-track > .home-card {
   flex: 0 0 100%;
   width: 100%;
+  max-width: 100%;
+  min-width: 0;
   margin-bottom: 0;
   box-sizing: border-box;
 }
